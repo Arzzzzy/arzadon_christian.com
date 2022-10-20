@@ -2,30 +2,30 @@
     font-family: 'Montserrat';
     list-style: none;
     padding: 0;
-    margin: auto;
 }
 body{
     background: #333;
 }
 .skills{
-    width: 400px;
-    margin: 50px auto;
+    width: 500px;
+    margin: 0%;
+    padding: 0%;
     color: white;
 }
 .skills li{
-    margin: 0;
+    margin: 20px 0;
 }
 .bar{
     background: #353b48;
     display: block;
-    height: 20px;
+    height: 12px;
     border: 1px solid rgba(0, 0, 0, 0.3);
     border-radius: 3px;
     overflow: hidden;
     box-shadow: 0 0 10px #2187e7b3;
 }
 .bar span{
-    height: 15px;
+    height: 12px;
     float: left;
     background: hsl(39, 97%, 46%) ;
 }
