@@ -2,6 +2,7 @@
     font-family: 'Montserrat';
     list-style: none;
     padding: 0;
+    margin: auto;
 }
 body{
     background: #333;
@@ -12,7 +13,7 @@ body{
     color: white;
 }
 .skills li{
-    margin: 20px 0;
+    margin: 0;
 }
 .bar{
     background: #353b48;
